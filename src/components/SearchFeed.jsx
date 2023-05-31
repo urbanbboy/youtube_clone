@@ -17,7 +17,7 @@ useEffect(() => {
   return (
     <Box p={2} sx={{overflowY: 'auto', height: '90vh', flex: 2}}>
       <Typography variant='h4' fontWeight='bold' mb={2} sx={{color: 'white' }}>
-        Serach results for: <span style={{color: '#F31503'}}>{searchTerm}</span> videos
+        Search results for: <span style={{color: '#F31503'}}>{searchTerm}</span> videos
       </Typography>
 
       <Videos videos={videos}/>
