@@ -1,4 +1,4 @@
- ![Youtube analogue](public/edited_youtube_Clone.gif)
+ ![https://github.com/urbanbboy/youtube_clone/assets/102015315/7313561a-a18e-465e-a7b6-cc0e987d63e8]
  
 # Features:
 
