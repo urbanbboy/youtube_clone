@@ -8,7 +8,7 @@
 * The site is responsive for different devices
 
 
-### Technologies: 
+## Technologies: 
 The website was built with React and used Material-UI to style its components and
 icons. Axios was used to make requests to the server
 
