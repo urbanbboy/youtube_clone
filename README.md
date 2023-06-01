@@ -2,7 +2,7 @@
 
 * It implements such functionality as interface components, and routing 
 * The application also has the ability to search for videos in various categories
-* All data is passed through a RESTful API 
+* All data is passed through a RESTful API
 * The site is responsive for different devices
 
 
