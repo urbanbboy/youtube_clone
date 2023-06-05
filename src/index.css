@@ -34,7 +34,11 @@ a {
   border:none;
   outline:none;
   width:350px;
+  font-size: 15px;
+  background-color: #fff;
+  transition: .2s linear;
 }
+
 
 .category-btn{
   font-weight: bold !important;
